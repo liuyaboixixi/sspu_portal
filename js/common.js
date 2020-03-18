@@ -512,7 +512,7 @@ const stringify = function(object, options) {
     return values.join("&");
 }
 
-axios.defaults.baseURL = "http://api.sspu.com/api";//接口访问 加上api
+axios.defaults.baseURL = "http://api.sspu.nat300.top/api";//接口访问 加上api
 axios.defaults.timeout = 5000;
 axios.defaults.withCredentials = true //可以携带cookic
 

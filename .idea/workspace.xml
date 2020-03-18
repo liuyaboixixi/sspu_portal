@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b6c2da-1d4a-42d0-9f7e-bd0c428435b0" name="Default Changelist" comment="" />
+    <list default="true" id="18b6c2da-1d4a-42d0-9f7e-bd0c428435b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getOrderInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/getOrderInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items/4/5/145.html" beforeDir="false" afterPath="$PROJECT_DIR$/items/4/5/145.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items/8/1/81.html" beforeDir="false" afterPath="$PROJECT_DIR$/items/8/1/81.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pages/top.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages/top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payfail.html" beforeDir="false" afterPath="$PROJECT_DIR$/payfail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/getOrderInfo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5757">
-              <caret line="303" column="80" selection-start-line="303" selection-start-column="70" selection-end-line="303" selection-end-column="80" />
+              <caret line="303" column="80" selection-start-line="303" selection-start-column="80" selection-end-line="303" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -36,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-205">
+            <state relative-caret-position="2128">
               <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
             </state>
           </provider>
@@ -62,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7315">
-              <caret line="385" column="59" selection-start-line="385" selection-start-column="59" selection-end-line="385" selection-end-column="59" />
+            <state relative-caret-position="225">
+              <caret line="218" column="20" lean-forward="true" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -74,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2185">
-              <caret line="115" column="69" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
+            <state relative-caret-position="2109">
+              <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="771">
-              <caret line="539" column="10" selection-start-line="539" selection-start-column="10" selection-end-line="539" selection-end-column="10" />
+            <state relative-caret-position="11039">
+              <caret line="581" column="30" selection-start-line="581" selection-start-column="30" selection-end-line="581" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -102,8 +114,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>logo-list</find>
-      <find>filters</find>
       <find>selectFilter</find>
       <find>ly</find>
       <find>createVerifyCode</find>
@@ -117,7 +127,6 @@
       <find>checkbox</find>
       <find>二</find>
       <find>乐</find>
-      <find>乐优</find>
       <find>if</find>
       <find>www.leyou</find>
       <find>sspu</find>
@@ -132,11 +141,20 @@
       <find>Price</find>
       <find>click</find>
       <find>actPrice</find>
+      <find>sspu.com</find>
+      <find>nat300.top</find>
+      <find>乐优</find>
     </findStrings>
     <replaceStrings>
-      <replace />
       <replace>sspu</replace>
+      <replace>nat300.top</replace>
+      <replace>sspu.nat300.top</replace>
+      <replace>SSPU</replace>
+      <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,22 +176,23 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/items/8/1/81.html" />
-        <option value="$PROJECT_DIR$/search.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/items/4/5/145.html" />
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/cart.html" />
         <option value="$PROJECT_DIR$/getOrderInfo.html" />
         <option value="$PROJECT_DIR$/pay.html" />
+        <option value="$PROJECT_DIR$/search.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="410" />
-    <option name="width" value="1387" />
-    <option name="height" value="994" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="290" />
+    <option name="y" value="28" />
+    <option name="width" value="1388" />
+    <option name="height" value="995" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -287,16 +306,17 @@
       <workItem from="1584365212732" duration="901000" />
       <workItem from="1584368444015" duration="1469000" />
       <workItem from="1584417271869" duration="2951000" />
+      <workItem from="1584504972431" duration="1927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148863000" />
+    <option name="totallyTimeSpent" value="151392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="328" width="1109" height="795" extended-state="0" />
+    <frame x="232" y="23" width="1110" height="796" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4643197" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4643197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,12 +330,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.71925753" visible="true" weight="0.14156626" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.71925753" visible="true" weight="0.125" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.28074247" side_tool="true" weight="0.37956205" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -577,7 +598,14 @@
     <entry file="file://$PROJECT_DIR$/getOrderInfo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5757">
-          <caret line="303" column="80" selection-start-line="303" selection-start-column="70" selection-end-line="303" selection-end-column="80" />
+          <caret line="303" column="80" selection-start-line="303" selection-start-column="80" selection-end-line="303" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -597,17 +625,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7315">
-          <caret line="385" column="59" selection-start-line="385" selection-start-column="59" selection-end-line="385" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2185">
-          <caret line="115" column="69" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
+        <state relative-caret-position="2109">
+          <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -618,17 +639,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pay.html">
+    <entry file="file://$PROJECT_DIR$/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        <state relative-caret-position="11039">
+          <caret line="581" column="30" selection-start-line="581" selection-start-column="30" selection-end-line="581" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/common.js">
+    <entry file="file://$PROJECT_DIR$/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="539" column="10" selection-start-line="539" selection-start-column="10" selection-end-line="539" selection-end-column="10" />
+        <state relative-caret-position="225">
+          <caret line="218" column="20" lean-forward="true" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
         </state>
       </provider>
     </entry>
